@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Курс Финансовой Грамотности для Подростков</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #ffffff, #000000); /* Градиент фона */
+        }
+        header {
+            background-color: #000000; /* Чёрный фон заголовка */
+            color: transparent;
+            padding: 10px 0;
+            text-align: center;
+            background: linear-gradient(to right, #ffffff, #000000); /* Градиент текста */
+            -webkit-background-clip: text;
+            background-clip: text; /* Применение градиента к тексту */
+        }
+        nav {
+            margin: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+        nav ul li a:hover {
+            background-color: #5C5C5C;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #000000; /* Чёрный фон подвала */
+            color: transparent;
+            background: linear-gradient(to right, #ffffff, #000000); /* Градиент текста */
+            -webkit-background-clip: text;
+            background-clip: text; /* Применение градиента к тексту */
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Курс Финансовой Грамотности для Подростков</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#home">Главная</a></li>
+        <li><a href="#program">Программа курса</a></li>
+        <li><a href="#resources">Ресурсы</a></li>
+        <li><a href="#partners">Партнеры</a></li>
+        <li><a href="#contact">Контакты</a></li>
+    </ul>
+</nav>
+
+<section id="home">
+    <h2>Добро пожаловать на курс!</h2>
+    <p>Этот курс предназначен для подростков, которые хотят научиться управлять своими финансами и принимать обоснованные финансовые решения. Научитесь составлять бюджеты, инвестировать и экономить с умом!</p>
+</section>
+
+<section id="program">
+    <h2>Программа курса</h2>
+    <ul>
+        <li>Введение в финансовую грамотность</li>
+        <li>Составление бюджета</li>
+        <li>Основы инвестирования</li>
+        <li>Сбережения и управление долгами</li>
+        <li>Финансовая безопасность в интернете</li>
+    </ul>
+    <h3>Расписание занятий</h3>
+    <p>В неделю проходит 2 занятия по 2 часа: во вторник и четверг.</p>
+</section>
+
+<section id="resources">
+    <h2>Полезные ресурсы</h2>
+    <p>См. рекомендуемые книги, вебинары и онлайн-курсы для получения дополнительной информации о финансовой грамотности!</p>
+</section>
+
+<section id="partners">
+    <h2>Партнеры</h2>
+    <p>Курс реализуется при поддержке партнёрства с <strong>Ударником г. Волгоград</strong>, который предоставляет помещение для проведения занятий.</p>
+</section>
+
+<section id="contact">
+    <h2>Контакты</h2>
+    <p>Если у вас есть вопросы, свяжитесь с нами по электронной почте: info@financecourse.ru</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Курс Финансовой Грамотности для Подростков</p>
+</footer>
+
+</body>
+</html>
